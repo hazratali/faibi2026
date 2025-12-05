@@ -179,7 +179,7 @@ April, 2026
 ---
 
 # Organizers' affiliations
-<div style="display: flex; justify-content: center; gap: 40px;">
+<div style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
   <div style="text-align: center;">
     <img src="assets/img/logo1.png" alt="Hazrat" style="width: 250px; border-radius: 0;">
   </div>
@@ -187,7 +187,7 @@ April, 2026
     <img src="assets/img/logoucf.png" alt="Rizwan" style="width: 250px; border-radius: 0;">
   </div>
 </div>
-<div style="display: flex; justify-content: center; gap: 40px;">
+<div style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
   <div style="text-align: center;">
     <img src="assets/img/mdanderson.png" alt="Jiawu" style="width: 250px; border-radius: 0;">
   </div>
@@ -195,7 +195,7 @@ April, 2026
     <img src="assets/img/imperial.png" alt="Rekik" style="width: 250px; border-radius: 0;">
   </div>
 </div>
-<div style="display: flex; justify-content: center; gap: 40px;">
+<div style="display: flex; justify-content: center; gap: 40px; *margin-bottom: 20px;">
   <div style="text-align: center;">
     <img src="assets/img/logobcu.png" alt="Muhammad Bilal" style="width: 250px; border-radius: 0;">
   </div>
