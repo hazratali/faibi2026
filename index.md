@@ -8,12 +8,12 @@
 layout: home
 ---
 <div style="text-align: center; margin-top: 20px;">
-  <h3>Workshop on</h3>
+  <h3>2nd Workshop on</h3>
   <h1>Foundation AI Models in Biomedical Imaging</h1>
   <h3> at</h3>
-  <h3><a href="https://biomedicalimaging.org/2025/">IEEE International Conference on Biomedical Imaging (ISBI) 2025</a></h3>
-  <h3> 15 April 2025</h3>
-  <h3> Houston, TX, USA</h3>
+  <h3><a href="https://biomedicalimaging.org/2026/">IEEE International Conference on Biomedical Imaging (ISBI) 2026</a></h3>
+  <h3> April 2026</h3>
+  <h3> London, United Kingdom</h3>
   
 </div>
 
@@ -25,17 +25,17 @@ Foundation AI models are generalistic AI models that have recently garnered huge
 <div style="display: flex; justify-content: center; gap: 40px;">
   <div style="text-align: center;">
     <img src="assets/img/kayhan.jpg" alt="Kayhan" style="width: 180px; height: 180px; border-radius: 50%;">
-    <p><strong>Dr. Kayhan Batmanghelich</strong></p>
+    <p><strong>Speaker 1</strong></p>
     <p>Boston University, USA</p>
   </div>
   <div style="text-align: center;">
     <img src="assets/img/kunzhang.jpg" alt="Kun Zhang" style="width: 180px; height: 180px; border-radius: 50%;">
-    <p><strong>Dr. Kun Zhang</strong></p>
+    <p><strong>Speaker 2</strong></p>
     <p>Carnegie Mellon University, USA</p>
   </div>
     <div style="text-align: center;">
     <img src="assets/img/shereen.jpeg" alt="Mahapatra" style="width: 180px; height: 180px; border-radius: 50%;">
-    <p><strong>Dr. Shereen Fouad </strong></p>
+    <p><strong>Speaker 3 </strong></p>
     <p>Aston University, UK</p>
   </div>
   <!-- <div style="text-align: center;">
@@ -47,14 +47,14 @@ Foundation AI models are generalistic AI models that have recently garnered huge
 
 
 # Call for featured talks
-~~We welcome submissions of abstracts for **featured talks** at the workshop. If you are attending IEEE ISBI 2025 and would like to present your work at the FAIBI workshop too, please fill in this simple form so that the organizers can include your talk in the workshop program. This will be included as a featured talk and should be limited to 10 minutes duration + a 5-minute question-answer session. [Click here to submit title of your talk](https://docs.google.com/forms/d/e/1FAIpQLScFEII8VCPAK464FKQ61og2X9YUPrqv-Frf1L32Ys1ve5ssHg/viewform?usp=header)~~
+We welcome submissions of abstracts for **featured talks** at the workshop. If you are attending IEEE ISBI 2025 and would like to present your work at the FAIBI workshop too, please fill in this simple form so that the organizers can include your talk in the workshop program. This will be included as a featured talk and should be limited to 10 minutes duration + a 5-minute question-answer session. 
+SUBMISSION LINK WILL BE ADDED HERE SOON
+<!-- [Click here to submit title of your talk](https://docs.google.com/forms/d/e/1FAIpQLScFEII8VCPAK464FKQ61og2X9YUPrqv-Frf1L32Ys1ve5ssHg/viewform?usp=header)~~ -->
 
 # Where and When
-15 April 2025 (Morning)
+April, 2026
 
-Hyatt Regency Houston Downtown, Houston, Texas, USA.
-
-*Room Arboretum 4-5 (F2)*
+*To be confirmed*
 
 
 # Schedule
@@ -68,23 +68,23 @@ Hyatt Regency Houston Downtown, Houston, Texas, USA.
     <tr>
         <td>9:00 am</td>
         <td>Invited talk</td>
-        <td>Kayhan Batmanghelich</td>
-        <td><strong>Beyond One-Size-Fits-All: Foundational Models for Organ-Centric Medical Imaging</strong>
+        <td>Speaker 1</td>
+        <td><strong>Title 1 Title 1 Title 1 Title 1 Title 1 Title 1 Title 1 Title 1</strong>
             <details>
                 <summary>Read abstract</summary>
-                The rapid advancement of artificial intelligence has spurred a growing shift toward foundational models, including in applied fields like medical imaging. These models promise to streamline the development process by replacing multiple task-specific models with a single, versatile framework trained on large multimodal data. While this concept is compelling and early results are encouraging, our analysis reveals that current foundational models fall short in addressing the unique complexities of medical imaging. In this talk, I propose a middle-ground solution: organ-specific foundational models tailored to domains such as lung and breast imaging. Drawing from our recent works, Mamo-CLIP and MedSyn, I will highlight both the potential and the limitations of this approach. By addressing key challenges—including data scarcity, annotation burden, and anatomical variability—I will discuss practical strategies for building effective domain-specific foundational models. The talk will conclude with a forward-looking perspective on opportunities to advance foundational model development in medical imaging.
+                Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. 
             </details>
         </td>
     </tr>
     <tr>
         <td>09:40 am</td>
         <td>Featured talk</td>
-        <td>Abhiram Kandiyana</td>
+        <td>Speaker 2</td>
         <td>
-            <strong>Automatic Classification of Microscopy Images using multi-modal LLMs</strong>
+            <strong>Title 2</strong>
             <details>
                 <summary>Read abstract</summary>
-                Current AI-based methods for the classification of cellular features (number, activation state) in microscopy images require time- and labor-intensive processes for training models. Specific limitations include the need for large numbers of images and major time commitments from domain experts for accurate ground truthing. This poster presents a solution that overcomes these limitations using a state-of-the-art vision language model (VLM) and few-shot prompting while maintaining equivalence in accuracy compared to the baseline. Rather than training with images from each class, the models input consists of minimal ground-truth prompts for visual question answering. Furthermore, our novel human-in-the-loop approach automates the selection of example image-text pairs as input prompts and generates explanatory text as the basis for separating images into distinct classes.
+                Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. 
             </details>
         </td>
     </tr>
@@ -165,6 +165,13 @@ Hyatt Regency Houston Downtown, Houston, Texas, USA.
   </div> 
 </div>
 
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <div style="text-align: center;">
+    <img src="assets/img/i1.jpg" alt="Bilal" style="width: 180px; height: 180px; border-radius: 50%;">
+    <p><strong>Prof. Muhammad Bilal</strong></p>
+    <p>Birmingham City University, UK</p>
+  </div>
+</div>
 
 # Contact us
 **Dr. Hazrat Ali**, ali.hazrat@stir.ac.uk 
