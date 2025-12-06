@@ -29,12 +29,12 @@ Foundation AI models are generalistic AI models that have recently garnered huge
     <p>Khalifa University, UAE</p>
   </div>
   <div style="text-align: center;">
-    <img src="assets/img/mahapatra.jpg" alt="Mahapatra" style="width: 180px; height: 180px; border-radius: 50%;">
+    <img src="assets/img/no-image-50.png" alt="Speaker 2" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Speaker 2</strong></p>
     <p>Intstitue name to be updated</p>
   </div>
     <div style="text-align: center;">
-    <img src="assets/img/mahapatra.jpg" alt="Mahapatra" style="width: 180px; height: 180px; border-radius: 50%;">
+    <img src="assets/img/no-image-50.png" alt="Speaker 3" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Speaker 3 </strong></p>
     <p>Intstitue name to be updated</p>
   </div>
