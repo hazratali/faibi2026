@@ -48,8 +48,9 @@ Foundation AI models are generalistic AI models that have recently garnered huge
 
 # Call for featured talks
 We welcome submissions of abstracts for **featured talks** at the workshop. If you are attending IEEE ISBI 2025 and would like to present your work at the FAIBI workshop too, please fill in this simple form so that the organizers can include your talk in the workshop program. This will be included as a featured talk and should be limited to 10 minutes duration + a 5-minute question-answer session. 
-SUBMISSION LINK WILL BE ADDED HERE SOON
-<!-- [Click here to submit title of your talk](https://docs.google.com/forms/d/e/1FAIpQLScFEII8VCPAK464FKQ61og2X9YUPrqv-Frf1L32Ys1ve5ssHg/viewform?usp=header)~~ -->
+
+[Click here to submit title of your talk](https://docs.google.com/forms/d/e/1FAIpQLSe96IR-Y2_DSLN4-5-fLwnhukNonTVkOLhZvRqe85nZ0nkYjA/viewform?usp=sharing&ouid=111091430880916872727
+
 
 # Where and When
 April, 2026
