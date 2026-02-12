@@ -25,8 +25,8 @@ Foundation AI models are generalistic AI models that have recently garnered huge
 <div style="display: flex; justify-content: center; gap: 40px;">
   <div style="text-align: center;">
     <img src="assets/img/shadi.jpg" alt="Professor Shadi Albarqouni" style="width: 180px; height: 180px; border-radius: 50%;">
-    <p><strong>Shadi Albarqouni</strong></p>
-    <p>University of Bonn</p>
+    <p><strong>Prof. Shadi Albarqouni</strong></p>
+    <p>University of Bonn, Germany</p>
   </div>
     <div style="text-align: center;">
     <img src="assets/img/mahapatra.jpg" alt="Mahapatra" style="width: 180px; height: 180px; border-radius: 50%;">
@@ -49,7 +49,7 @@ Foundation AI models are generalistic AI models that have recently garnered huge
 # Call for featured talks
 We welcome submissions of abstracts for **featured talks** at the workshop. If you are attending IEEE ISBI 2025 and would like to present your work at the FAIBI workshop too, please fill in this simple form so that the organizers can include your talk in the workshop program. This will be included as a featured talk and should be limited to 10 minutes duration + a 5-minute question-answer session. 
 
-[Click here to submit title of your talk](https://docs.google.com/forms/d/e/1FAIpQLSe96IR-Y2_DSLN4-5-fLwnhukNonTVkOLhZvRqe85nZ0nkYjA/viewform?usp=sharing&ouid=111091430880916872727
+[Click here to submit title of your talk](https://docs.google.com/forms/d/e/1FAIpQLSe96IR-Y2_DSLN4-5-fLwnhukNonTVkOLhZvRqe85nZ0nkYjA/viewform?usp=sharing&ouid=111091430880916872727)
 
 
 # Where and When
