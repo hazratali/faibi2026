@@ -24,14 +24,14 @@ Foundation AI models are generalistic AI models that have recently garnered huge
 
 <div style="display: flex; justify-content: center; gap: 40px;">
   <div style="text-align: center;">
+    <img src="assets/img/shadi.jpg" alt="Professor Shadi Albarqouni" style="width: 180px; height: 180px; border-radius: 50%;">
+    <p><strong>Shadi Albarqouni</strong></p>
+    <p>University of Bonn</p>
+  </div>
+    <div style="text-align: center;">
     <img src="assets/img/mahapatra.jpg" alt="Mahapatra" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Dr. Dwarikanath Mahapatra</strong></p>
     <p>Khalifa University, UAE</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/img/no-image-50.png" alt="Speaker 2" style="width: 180px; height: 180px; border-radius: 50%;">
-    <p><strong>Speaker 2</strong></p>
-    <p>Intstitue name to be updated</p>
   </div>
     <div style="text-align: center;">
     <img src="assets/img/no-image-50.png" alt="Speaker 3" style="width: 180px; height: 180px; border-radius: 50%;">
