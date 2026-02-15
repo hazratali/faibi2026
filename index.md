@@ -47,7 +47,7 @@ Foundation AI models are generalistic AI models that have recently garnered huge
 
 
 # Call for featured talks
-We welcome submissions of abstracts for **featured talks** at the workshop. If you are attending IEEE ISBI 2025 and would like to present your work at the FAIBI workshop too, please fill in this simple form so that the organizers can include your talk in the workshop program. This will be included as a featured talk and should be limited to 10 minutes duration + a 5-minute question-answer session. 
+We welcome submissions of abstracts for **featured talks** at the workshop. If you are attending IEEE ISBI 2026 and would like to present your work at the FAIBI workshop too, please fill in this simple form so that the organizers can include your talk in the workshop program. This will be included as a featured talk and should be limited to 10 minutes duration + a 5-minute question-answer session. 
 
 [Click here to submit title of your talk](https://docs.google.com/forms/d/e/1FAIpQLSe96IR-Y2_DSLN4-5-fLwnhukNonTVkOLhZvRqe85nZ0nkYjA/viewform?usp=sharing&ouid=111091430880916872727)
 
@@ -55,7 +55,7 @@ We welcome submissions of abstracts for **featured talks** at the workshop. If y
 # Where and When
 April, 2026
 
-*To be updated*
+*ExCel London*
 
 
 # Schedule
@@ -147,7 +147,7 @@ April, 2026
   <div style="text-align: center;">
     <img src="assets/img/rizwan.jpg" alt="Rizwan" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Dr. Rizwan Qureshi</strong></p>
-    <p>University of Central Florida, USA</p>
+    <p>Salim Habib University Karachi and University of Central Florida, USA</p>
   </div>
 </div>
 
