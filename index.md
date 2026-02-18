@@ -147,7 +147,7 @@ April, 2026
   <div style="text-align: center;">
     <img src="assets/img/rizwan.jpg" alt="Rizwan" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Dr. Rizwan Qureshi</strong></p>
-    <p>Salim Habib University Karachi and University of Central Florida, USA</p>
+    <p>Associate Prof. Salim Habib University Karachi</p>
   </div>
 </div>
 
