@@ -59,7 +59,8 @@ April, 2026
 
 
 # Schedule
-<table border="1">
+to be updated
+<!-- <table border="1">
     <tr>
         <th>Time</th>
         <th>Talk</th>
@@ -134,7 +135,7 @@ April, 2026
             <strong>Closing Remarks and Note of Thanks</strong>
         </td>
     </tr>
-</table>
+</table> -->
 
 
 # Organizers
