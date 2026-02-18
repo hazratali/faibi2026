@@ -185,7 +185,7 @@ April, 2026
     <img src="assets/img/logo1.png" alt="Hazrat" style="width: 250px; border-radius: 0;">
   </div>
   <div style="text-align: center;">
-    <img src="assets/img/logoucf.png" alt="Rizwan" style="width: 250px; border-radius: 0;">
+    <img src="assets/img/logosalimhabib.png" alt="Rizwan" style="width: 250px; border-radius: 0;">
   </div>
 </div>
 <div style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
