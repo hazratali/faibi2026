@@ -18,10 +18,15 @@ Albarqouni has more than 100 peer-reviewed publications in both Medical Imaging 
 
 His current research interests include Interpretable ML, Robustness, Uncertainty, and Federated Learning. He is also interested in Entrepreneurship and Startups for Innovative Medical Solutions with limited resources.
 
-## Dr. Qin Chen
+## Dr. Chen Qin
 ### Associate Professor, 
 ### Imperial College London
 Dr. Chen Qin is an Associate Professor in Computer Vision and Machine Learning at Department of Electrical and Electronic Engineering and I-X, Imperial College London. Previously, she was a Lecturer at School of Engineering, University of Edinburgh from July 2020 to September 2022. She obtained her Ph.D. in Computing Research from Imperial College London in January 2020, and M.Sc. in Control Science and Engineering from Department of Automation, Tsinghua University in July 2015. Before moving to University of Edinburgh, she has worked as a post-doctoral research associate at Department of Computing, Imperial College London, where she has worked on deep learning-based MRI reconstruction, image registration and segmentation for enhancing the entire medical imaging pipeline. Her pioneering work on convolutional recurrent neural networks for MRI reconstruction has been highly and widely recognised by international leading groups from both academia and industry. Overall, she has published more than 70 papers in top-tier peer-reviewed engineering and medical imaging journals and conference proceedings. She has served as an area chair for MICCAI 2022-24 and a member of organising and programme committee at several international workshops, e.g., CMRxRecon 2023/24 and UNSURE 2022-24. She also serves as an Associate Editor for SPIE Journal of Medical Imaging and Journal of Pattern Recognition. Her current research mainly focuses on generative models for inverse problems and multi-modal representation learning, with applications in medical image computing. 
+
+## Dr. Muzammil Behzad
+### Assistant Professor
+### KFUPM, Saudi Arabia
+I am an AI Scientist at Silo AI (Finland), and a researcher at the Center for Machine Vision and Signal Analysis in the University of Oulu (Finland), where I also completed my PhD (with distinction) in 2022 with Academy Professor Guoying Zhao. Prior to that, I received my partially-funded B.S. degree (with distinctions - double medalist and valedictorian) and fully-funded M.S. degree, both in Electrical Engineering, from COMSATS University Islamabad (Pakistan) and King Fahd University of Petroleum & Minerals (Saudi Arabia), in 2013 and 2017, respectively. I worked as a visiting research scholar in the University College London (UK), Brown University (USA), and King Abdullah University of Science & Technology (Saudi Arabia). I have also held full-time academic positions in Pukyong National University (South Korea), and COMSATS University Islamabad (Pakistan). My research interests lie in signal and image processing, embedded systems, machine/deep learning and computer vision. 
 
 ## Dr. Dwarikanath Mahapatra
 ### Assistant Professor,

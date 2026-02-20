@@ -23,26 +23,30 @@ Foundation AI models are generalistic AI models that have recently garnered huge
 # Invited Speakers
 
 <div style="display: flex; justify-content: center; gap: 40px;">
+<div>
   <div style="text-align: center;">
     <img src="assets/img/shadi.jpg" alt="Professor Shadi Albarqouni" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Prof. Shadi Albarqouni</strong></p>
     <p>University of Bonn, Germany</p>
   </div>
-    <div style="text-align: center;">
+  <div style="text-align: center;">
+    <img src="assets/img/qinchen.png" alt="Qin Chen" style="width: 180px; height: 180px; border-radius: 50%;">
+    <p><strong>Dr. Chen Qin</strong></p>
+    <p>Imperial College London, UK</p>
+  </div>
+</div>
+<div>
+  <div style="text-align: center;">
     <img src="assets/img/mahapatra.jpg" alt="Mahapatra" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Dr. Dwarikanath Mahapatra</strong></p>
     <p>Khalifa University, UAE</p>
   </div>
-    <div style="text-align: center;">
-    <img src="assets/img/qinchen.png" alt="Qin Chen" style="width: 180px; height: 180px; border-radius: 50%;">
-    <p><strong>Dr. Qin Chen </strong></p>
-    <p>Imperial College London, UK</p>
+  <div style="text-align: center;">
+    <img src="assets/img/muzammil.jpg" alt="Muzammil" style="width: 180px; height: 180px; border-radius: 50%;">
+    <p><strong>Dr. muzammil Behzad</strong></p>
+    <p>KFUPM, Saudi Arabia</p>
   </div>
-  <!-- <div style="text-align: center;">
-    <img src="assets/img/mahapatra.jpg" alt="Mahapatra" style="width: 180px; height: 180px; border-radius: 50%;">
-    <p><strong>Dr. Dwarikanath Mahapatra</strong></p>
-    <p>Inception Institute of AI, UAE</p>
-  </div> -->
+</div>
 </div>
 
 
