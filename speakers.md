@@ -6,6 +6,7 @@ permalink: /speakers/
 
 
 ## Prof. Shadi Albarqouni
+### Professor,
 ### University of Bonn, Germany
 Shadi Albarqouni is a Palestinian-German Professor of Computational Medical Imaging Research. He received his B.Sc. and M.Sc. in Electrical Engineering from the IU Gaza, Palestine, in 2005, and 2010, respectively. In 2012, he received the DAAD research grant to pursue his Ph.D. at the Chair for Computer Aided Medical Procedures (CAMP), Technical University of Munich (TUM), Germany. During his Ph.D., Albarqouni worked with Prof. Nassir Navab on developing machine learning algorithms to handle noisy labels, coming from crowdsourcing, in medical imaging. His AggNet paper, published at the Special Issue on Deep Learning at the IEEE Transaction on Medcial Imaging (IF: 10.048), was among the first ones on Medical Imaging with Deep Learning and has been featured as the top downloaded article for a couple of years at IEEEXplore.
 
@@ -17,12 +18,12 @@ Albarqouni has more than 100 peer-reviewed publications in both Medical Imaging 
 
 His current research interests include Interpretable ML, Robustness, Uncertainty, and Federated Learning. He is also interested in Entrepreneurship and Startups for Innovative Medical Solutions with limited resources.
 
+## Dr. Qin Chen
+### Associate Professor, 
+### Imperial College London
+Dr. Chen Qin is an Associate Professor in Computer Vision and Machine Learning at Department of Electrical and Electronic Engineering and I-X, Imperial College London. Previously, she was a Lecturer at School of Engineering, University of Edinburgh from July 2020 to September 2022. She obtained her Ph.D. in Computing Research from Imperial College London in January 2020, and M.Sc. in Control Science and Engineering from Department of Automation, Tsinghua University in July 2015. Before moving to University of Edinburgh, she has worked as a post-doctoral research associate at Department of Computing, Imperial College London, where she has worked on deep learning-based MRI reconstruction, image registration and segmentation for enhancing the entire medical imaging pipeline. Her pioneering work on convolutional recurrent neural networks for MRI reconstruction has been highly and widely recognised by international leading groups from both academia and industry. Overall, she has published more than 70 papers in top-tier peer-reviewed engineering and medical imaging journals and conference proceedings. She has served as an area chair for MICCAI 2022-24 and a member of organising and programme committee at several international workshops, e.g., CMRxRecon 2023/24 and UNSURE 2022-24. She also serves as an Associate Editor for SPIE Journal of Medical Imaging and Journal of Pattern Recognition. Her current research mainly focuses on generative models for inverse problems and multi-modal representation learning, with applications in medical image computing. 
+
 ## Dr. Dwarikanath Mahapatra
+### Assistant Professor,
 ### Khalifa University, UAE
 Dwarikanath Mahapatra is an Assistant Professor in the Department of Computer Science at Khalifa University. He has previously worked as a Principal AI Scientist at Locai, and Inception Institute of Artificial Intelligence, Abu Dhabi, UAE.  He obtained his Ph.D. from the National University of Singapore, worked as a post-doctoral research fellow at the ETH Zurich, Switzerland, and as a Research Staff Member at IBM Research Australia. Dwarikanath's research interests are mainly in medical image analysis, machine learning, deep learning, decision support systems and computer aided diagnosis. He also explores other aspects of computer vision such as object detection and tracking, surveillance and image classification using deep neural networks. Dwarikanath has published more than 100 papers in prestigious conferences and journals, and holds 15 patents. 
-
- 
-
-## Speaker 3
-### Affiliation
-Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text Biography text.
