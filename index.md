@@ -12,7 +12,7 @@ layout: home
   <h1>Foundation AI Models in Biomedical Imaging</h1>
   <h3> at</h3>
   <h3><a href="https://biomedicalimaging.org/2026/">IEEE International Conference on Biomedical Imaging (ISBI) 2026</a></h3>
-  <h3> April 2026</h3>
+  <h3> 11 April 2026</h3>
   <h3> London, United Kingdom</h3>
   
 </div>
