@@ -57,13 +57,13 @@ We welcome submissions of abstracts for **featured talks** at the workshop. If y
 
 
 # Where and When
-April, 2026
+11 April, 2026
 
 *ExCel London*
 
 
 # Schedule
-to be updated
+Tentative schedule is given below. This will be updated to match the conference program. 
 <table border="1">
     <tr>
         <th>Time</th>
@@ -85,7 +85,7 @@ to be updated
     <tr>
         <td>14:30</td>
         <td>Invited Talk</td>
-        <td>Dr. muzammil Behzad</td>
+        <td>Dr. Muzammil Behzad</td>
         <td>
             <strong>Multimodal Medical Computer Vision: Opportunities and Challenges for Next-Generation Medical Imaging and Clinical Applications 
 </strong>
