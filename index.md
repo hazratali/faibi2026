@@ -64,7 +64,7 @@ April, 2026
 
 # Schedule
 to be updated
-<!-- <table border="1">
+<table border="1">
     <tr>
         <th>Time</th>
         <th>Talk</th>
@@ -72,74 +72,63 @@ to be updated
         <th>Title</th>
     </tr>
     <tr>
-        <td>9:00 am</td>
+        <td>14:00</td>
         <td>Invited talk</td>
-        <td>Speaker 1</td>
-        <td><strong>Title 1 Title 1 Title 1 Title 1 Title 1 Title 1 Title 1 Title 1</strong>
+        <td>Dr. Chen Qin</td>
+        <td><strong>Title to be added</strong>
             <details>
                 <summary>Read abstract</summary>
-                Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. Abstract 1. 
+                Abstract yet to be added. 
             </details>
         </td>
     </tr>
     <tr>
-        <td>09:40 am</td>
-        <td>Featured talk</td>
-        <td>Speaker 2</td>
+        <td>14:30</td>
+        <td>Invited Talk</td>
+        <td>Dr. muzammil Behzad</td>
         <td>
-            <strong>Title 2</strong>
+            <strong>Multimodal Medical Computer Vision: Opportunities and Challenges for Next-Generation Medical Imaging and Clinical Applications 
+</strong>
             <details>
                 <summary>Read abstract</summary>
-                Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. Abstract 2. 
+                Multimodal medical computer vision is reshaping healthcare by integrating diverse data sources such as medical imaging, clinical reports, electronic health records, and emerging vision-language models to enable more comprehensive and intelligent clinical decision-making. By learning from complementary modalities, next-generation AI systems can improve diagnostic accuracy, enhance disease characterization, support personalized treatment planning, and streamline clinical workflows. However, significant challenges remain, including data heterogeneity, limited annotations, modality imbalance, interpretability, privacy concerns, and regulatory constraints. This talk will highlight key opportunities, recent advances, and open challenges in developing robust, trustworthy, and clinically deployable multimodal AI systems for the future of medical imaging and healthcare applications. 
             </details>
         </td>
     </tr>
     <tr>
-        <td>09:50 am</td>
-        <td>Featured talk</td>
-        <td>Speaker name To be updated </td>
+        <td>15:00 am</td>
+        <td>Invited Talk</td>
+        <td>Prof. Shadi Albarqouni </td>
         <td>
-            <strong>Self-supervised learning for chest x-ray analysis</strong>
+            <strong>Rethinking Foundation Models for Medical Imaging: Toward Affordable and Multimodal AI</strong>
             <details>
                 <summary>Read abstract</summary>
-                To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated 
+                Foundation models are rapidly transforming biomedical imaging by enabling transferable representations across tasks and datasets. However, their direct application to clinical settings raises important challenges related to bias, domain shift, annotation cost, and deployment in resource-constrained environments. In this talk, I present a series of recent works from our group exploring how foundation models can be critically evaluated and adapted to support affordable and practical AI systems for medical imaging. We first analyze bias in foundation model representations for mammography, highlighting how modality-specific characteristics can influence downstream performance. We then demonstrate applications in histopathology through CMIL grading, showing how specialized models can enable clinically relevant analysis with limited annotations. Building on these insights, we explore new paradigms enabled by multimodal foundation models, including cross-modal prompt learning and the use of vision-language models as gating mechanisms for open-set federated active learning. Together, these studies illustrate how specialized, multimodal, and annotation-efficient foundation models can enable robust and deployable AI systems for biomedical imaging, particularly in point-of-care and resource-limited settings.
             </details>
         </td>
     <tr>
-    <td colspan="4" style="text-align: center;">10:00 - 10:30 am <strong>Coffee Break</strong></td>
+    <td colspan="4" style="text-align: center;">15:40 - 16:00 <strong>Coffee Break</strong></td>
     </tr>
     <tr>
-        <td>10:30 am</td>
+        <td>16:00</td>
         <td>Invited talk</td>
-        <td>Kun Zhang</td>
+        <td>Dr. Dwarikanath Mahapatra</td>
         <td>
-            <strong>Title To be updated To be updated To be updated To be updated To be updated To be updated </strong>
+            <strong>Title to be updated </strong>
             <details>
                 <summary>Read abstract</summary>
-                To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated 
+                Talk withdrawn. Due to the ongoing situation in the middle east, the speaker is unable to confirm travel plans.  
             </details>
         </td>
     </tr>
-    <tr>
-        <td>11:00 am</td>
-        <td>Invited talk</td>
-        <td>Speaker name To be updated  </td>
-        <td>
-            <strong>Title To be updated </strong>
-            <details>
-                <summary>Read abstract</summary>
-                To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated To be updated 
-            </details>
-        </td>
-    </tr>
-        <td>11:30 am</td>
+        <td>17:00 am</td>
         <td>Closing Remarks </td>
         <td>Workshop chairs </td>
         <td>
             <strong>Closing Remarks and Note of Thanks</strong>
         </td>
     </tr>
-</table> -->
+</table>
 
 
 # Organizers
