@@ -96,7 +96,7 @@ Tentative schedule is given below. This will be updated to match the conference 
         </td>
     </tr>
     <tr>
-        <td>15:00 am</td>
+        <td>15:00 </td>
         <td>Invited Talk</td>
         <td>Prof. Shadi Albarqouni </td>
         <td>
@@ -121,7 +121,7 @@ Tentative schedule is given below. This will be updated to match the conference 
             </details>
         </td>
     </tr>
-        <td>17:00 am</td>
+        <td>17:00 /td>
         <td>Closing Remarks </td>
         <td>Workshop chairs </td>
         <td>
