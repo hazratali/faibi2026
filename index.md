@@ -152,7 +152,7 @@ Tentative schedule is given below. This will be updated to match the conference 
         </td>
     </tr>
     <tr>
-        <td>14:30</td>
+        <td>14:40</td>
         <td>Invited Talk</td>
         <td>Dr. Muzammil Behzad</td>
         <td>
@@ -164,7 +164,7 @@ Tentative schedule is given below. This will be updated to match the conference 
         </td>
     </tr>
     <tr>
-        <td>15:00 </td>
+        <td>15:20 </td>
         <td>Invited Talk</td>
         <td>Prof. Shadi Albarqouni </td>
         <td>
@@ -175,7 +175,7 @@ Tentative schedule is given below. This will be updated to match the conference 
             </details>
         </td>
     </tr> <tr>
-        <td colspan="4" style="text-align: center;">15:40 - 16:00 <strong>Coffee Break</strong></td>
+        <td colspan="4" style="text-align: center;">16:00 - 16:20 <strong>Coffee Break</strong></td>
     </tr>
     <tr>
         <td>16:00</td>
