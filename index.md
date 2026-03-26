@@ -144,10 +144,10 @@ Tentative schedule is given below. This will be updated to match the conference 
         <td>14:00</td>
         <td>Invited talk</td>
         <td>Dr. Chen Qin</td>
-        <td><strong>Title to be added</strong>
+        <td><strong>Foundational Medical AI Beyond Supervised Learning on Incomplete Imaging and Clinical Data</strong>
             <details>
                 <summary>Read abstract</summary>
-                Abstract yet to be added. 
+                As the biomedical imaging community explores the potential of large-scale foundation models, a critical bottleneck remains: real-world clinical data is inherently messy, incomplete, and rarely contains perfect ground truth. To build truly foundational AI capabilities that scale to clinical workflows, the field must move beyond traditional supervised learning paradigms. This talk presents a suite of beyond-supervised methodologies designed to tackle data incompleteness at two critical stages: physical acquisition and semantic diagnosis. First, we address the challenge of incomplete imaging signals through advanced generative modeling and unsupervised reconstruction frameworks. By learning directly from partial or accelerated physical measurements, these methods enable high-fidelity image reconstruction without the strict reliance on fully sampled reference scans. Second, we transition to downstream clinical applications by exploring multimodal architectures that fuse high-dimensional images with heterogeneous clinical records. By leveraging advanced representation learning, these systems natively handle missing clinical variables and effectively utilize unannotated data, dynamically adapting to imperfect patient profiles. By advancing medical AI beyond supervised learning at both the physics and clinical levels, we provide grounded steps toward learning the robust representations required for the next generation of clinical AI. 
             </details>
         </td>
     </tr>
