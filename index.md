@@ -80,8 +80,7 @@ Tentative schedule is given below. This will be updated to match the conference 
             <details>
                 <summary>Read abstract</summary>
                 As the biomedical imaging community explores the potential of large-scale foundation models, a critical bottleneck remains: real-world clinical data is inherently messy, incomplete, and rarely contains perfect ground truth. To build truly foundational AI capabilities that scale to clinical workflows, the field must move beyond traditional supervised learning paradigms. This talk presents a suite of beyond-supervised methodologies designed to tackle data incompleteness at two critical stages: physical acquisition and semantic diagnosis. First, we address the challenge of incomplete imaging signals through advanced generative modeling and unsupervised reconstruction frameworks. By learning directly from partial or accelerated physical measurements, these methods enable high-fidelity image reconstruction without the strict reliance on fully sampled reference scans. Second, we transition to downstream clinical applications by exploring multimodal architectures that fuse high-dimensional images with heterogeneous clinical records. By leveraging advanced representation learning, these systems natively handle missing clinical variables and effectively utilize unannotated data, dynamically adapting to imperfect patient profiles. By advancing medical AI beyond supervised learning at both the physics and clinical levels, we provide grounded steps toward learning the robust representations required for the next generation of clinical AI. 
-            </details>
-        </td>
+            </details></td>
     </tr>
     <tr>
         <td>14:40</td>
@@ -98,7 +97,6 @@ Tentative schedule is given below. This will be updated to match the conference 
     <tr>
         <td colspan="4" style="text-align: center;">15:00 - 16:00 <strong>Awards Distributiion Ceremony</strong></td>
     </tr>
-    <tr>
     <tr>
         <td colspan="4" style="text-align: center;">16:00 - 16:30 <strong>Coffee Break</strong></td>
     </tr>
