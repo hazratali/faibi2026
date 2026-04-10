@@ -73,7 +73,19 @@ Tentative schedule is given below. This will be updated to match the conference 
         <th>Title</th>
     </tr>
     <tr>
-        <td>14:00</td>
+        <td>14:00 </td>
+        <td>Invited Talk</td>
+        <td>Prof. Shadi Albarqouni </td>
+        <td>
+            <strong>Rethinking Foundation Models for Medical Imaging: Toward Affordable and Multimodal AI</strong>
+            <details>
+                <summary>Read abstract</summary>
+                Foundation models are rapidly transforming biomedical imaging by enabling transferable representations across tasks and datasets. However, their direct application to clinical settings raises important challenges related to bias, domain shift, annotation cost, and deployment in resource-constrained environments. In this talk, I present a series of recent works from our group exploring how foundation models can be critically evaluated and adapted to support affordable and practical AI systems for medical imaging. We first analyze bias in foundation model representations for mammography, highlighting how modality-specific characteristics can influence downstream performance. We then demonstrate applications in histopathology through CMIL grading, showing how specialized models can enable clinically relevant analysis with limited annotations. Building on these insights, we explore new paradigms enabled by multimodal foundation models, including cross-modal prompt learning and the use of vision-language models as gating mechanisms for open-set federated active learning. Together, these studies illustrate how specialized, multimodal, and annotation-efficient foundation models can enable robust and deployable AI systems for biomedical imaging, particularly in point-of-care and resource-limited settings.
+            </details>
+        </td>
+    </tr>
+    <tr>
+        <td>14:30</td>
         <td>Invited talk</td>
         <td>Dr. Chen Qin</td>
         <td><strong>Foundational Medical AI Beyond Supervised Learning on Incomplete Imaging and Clinical Data</strong>
@@ -83,6 +95,12 @@ Tentative schedule is given below. This will be updated to match the conference 
             </details></td>
     </tr>
     <tr>
+        <td colspan="4" style="text-align: center;">15:00 - 16:00 <strong>Awards Distributiion Ceremony</strong></td>
+    </tr>
+    <tr>
+        <td colspan="4" style="text-align: center;">16:00 - 16:30 <strong>Coffee Break</strong></td>
+    </tr>
+        <tr>
         <td>14:40</td>
         <td>Invited Talk</td>
         <td>Dr. Muzammil Behzad</td>
@@ -95,25 +113,7 @@ Tentative schedule is given below. This will be updated to match the conference 
         </td>
     </tr> 
     <tr>
-        <td colspan="4" style="text-align: center;">15:00 - 16:00 <strong>Awards Distributiion Ceremony</strong></td>
-    </tr>
-    <tr>
-        <td colspan="4" style="text-align: center;">16:00 - 16:30 <strong>Coffee Break</strong></td>
-    </tr>
-    <tr>
-        <td>16:30 </td>
-        <td>Invited Talk</td>
-        <td>Prof. Shadi Albarqouni </td>
-        <td>
-            <strong>Rethinking Foundation Models for Medical Imaging: Toward Affordable and Multimodal AI</strong>
-            <details>
-                <summary>Read abstract</summary>
-                Foundation models are rapidly transforming biomedical imaging by enabling transferable representations across tasks and datasets. However, their direct application to clinical settings raises important challenges related to bias, domain shift, annotation cost, and deployment in resource-constrained environments. In this talk, I present a series of recent works from our group exploring how foundation models can be critically evaluated and adapted to support affordable and practical AI systems for medical imaging. We first analyze bias in foundation model representations for mammography, highlighting how modality-specific characteristics can influence downstream performance. We then demonstrate applications in histopathology through CMIL grading, showing how specialized models can enable clinically relevant analysis with limited annotations. Building on these insights, we explore new paradigms enabled by multimodal foundation models, including cross-modal prompt learning and the use of vision-language models as gating mechanisms for open-set federated active learning. Together, these studies illustrate how specialized, multimodal, and annotation-efficient foundation models can enable robust and deployable AI systems for biomedical imaging, particularly in point-of-care and resource-limited settings.
-            </details>
-        </td>
-    </tr>
-    <tr>
-        <td>17:10</td>
+        <td>16:30</td>
         <td>Invited talk</td>
         <td>Dr. Dwarikanath Mahapatra</td>
         <td>
@@ -124,7 +124,7 @@ Tentative schedule is given below. This will be updated to match the conference 
             </details>
         </td>
     </tr>
-    <tr> <td>17:10</td> <td>Closing Remarks </td>
+    <tr> <td>17:00</td> <td>Closing Remarks </td>
         <td>Workshop chairs </td>
         <td>
             <strong>Closing Remarks and Note of Thanks</strong>
