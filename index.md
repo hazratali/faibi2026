@@ -101,7 +101,7 @@ Tentative schedule is given below. This will be updated to match the conference 
         <td colspan="4" style="text-align: center;">16:00 - 16:30 <strong>Coffee Break</strong></td>
     </tr>
         <tr>
-        <td>14:40</td>
+        <td>16:30</td>
         <td>Invited Talk</td>
         <td>Dr. Muzammil Behzad</td>
         <td>
@@ -113,11 +113,11 @@ Tentative schedule is given below. This will be updated to match the conference 
         </td>
     </tr> 
     <tr>
-        <td>16:30</td>
+        <td>17:00</td>
         <td>Invited talk</td>
         <td>Dr. Dwarikanath Mahapatra</td>
         <td>
-            <strong>Title to be updated </strong>
+            <strong>Talk withdrawn </strong>
             <details>
                 <summary>Read abstract</summary>
                 Talk withdrawn. Due to the ongoing situation in the middle east, the speaker is unable to confirm travel plans.  
