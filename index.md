@@ -100,6 +100,33 @@ layout: home
     <div class="gallery-item">
       <img src="assets/img/workshopimage3.jpeg" alt="Past Workshop Highlights">
     </div>
+    <div class="gallery-item">
+      <img src="assets/img/workshopimage4.jpeg" alt="Past Workshop Highlights">
+    </div>
+    <div class="gallery-item">
+      <img src="assets/img/workshopimage5.jpeg" alt="Past Workshop Highlights">
+    </div>
+    <div class="gallery-item">
+      <img src="assets/img/workshopimage6.jpeg" alt="Past Workshop Highlights">
+    </div>
+    <div class="gallery-item">
+      <img src="assets/img/workshopimage7.jpeg" alt="Past Workshop Highlights">
+    </div>
+    <div class="gallery-item">
+      <img src="assets/img/workshopimage8.jpeg" alt="Past Workshop Highlights">
+    </div>
+    <div class="gallery-item">
+      <img src="assets/img/workshopimage9.jpeg" alt="Past Workshop Highlights">
+    </div>
+    <div class="gallery-item">
+      <img src="assets/img/workshopimage10.jpeg" alt="Past Workshop Highlights">
+    </div>
+    <div class="gallery-item">
+      <img src="assets/img/workshopimage11.jpeg" alt="Past Workshop Highlights">
+    </div>
+    <div class="gallery-item">
+      <img src="assets/img/workshopimage12.jpeg" alt="Past Workshop Highlights">
+    </div>
   </div>
 
   <button class="nav-btn next-btn" onclick="moveGallery(1)">❯</button>
