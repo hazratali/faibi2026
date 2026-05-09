@@ -17,6 +17,108 @@ layout: home
   
 </div>
 
+layout: home
+---
+<div style="text-align: center; margin-top: 20px;">
+  <h3>2nd Workshop on</h3>
+  <h1>Foundation AI Models in Biomedical Imaging</h1>
+  <h3> at</h3>
+  <h3><a href="https://biomedicalimaging.org/2026/">IEEE International Conference on Biomedical Imaging (ISBI) 2026</a></h3>
+  <h3> 11 April 2026</h3>
+  <h3> London, United Kingdom</h3>
+</div>
+
+<style>
+  /* Ensuring the gallery doesn't interfere with Markdown spacing */
+  .gallery-wrapper {
+    position: relative;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 50px; /* Space for buttons */
+  }
+
+  .gallery-viewport {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    gap: 10px;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE/Edge */
+  }
+
+  .gallery-viewport::-webkit-scrollbar {
+    display: none; /* Chrome/Safari */
+  }
+
+  .gallery-item {
+    flex: 0 0 100%;
+    scroll-snap-align: center;
+    display: flex;
+    justify-content: center;
+  }
+
+  .gallery-item img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  }
+
+  .nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.2rem;
+    transition: background 0.3s;
+    z-index: 5;
+  }
+
+  .nav-btn:hover { background: rgba(0, 0, 0, 0.8); }
+  .prev-btn { left: 0; }
+  .next-btn { right: 0; }
+</style>
+
+<div class="gallery-wrapper">
+  <button class="nav-btn prev-btn" onclick="moveGallery(-1)">❮</button>
+  
+  <div class="gallery-viewport" id="workshop-gallery">
+    <div class="gallery-item">
+      <img src="assets/img/workshopimage1.jpeg" alt="Foundation Model Research">
+    </div>
+    <div class="gallery-item">
+      <img src="assets/img/workshopimage2.jpeg" alt="Biomedical Imaging Samples">
+    </div>
+    <div class="gallery-item">
+      <img src="assets/img/workshopimage3.jpeg" alt="Past Workshop Highlights">
+    </div>
+  </div>
+
+  <button class="nav-btn next-btn" onclick="moveGallery(1)">❯</button>
+</div>
+
+<script>
+  function moveGallery(direction) {
+    const gallery = document.getElementById('workshop-gallery');
+    const scrollStep = gallery.clientWidth + 10; // Image width + gap
+    gallery.scrollBy({
+      left: direction * scrollStep,
+      behavior: 'smooth'
+    });
+  }
+</script>
+
+<br>
+
+
 # About
 Foundation AI models are generalistic AI models that have recently garnered huge attention in the AI research community. Foundation AI models bring scalability and broad applicability and, thus, possess transformative potential in medical imaging applications, including (but not limited to) synthesis of medical image data, automatic report generation from radiology images, cross-lingual report generation, and image analysis. This workshop aims to explore new applications of foundations AI models in biomedical imaging with a focus on multimodal foundation models for multimodality medical data comprising medical images (radiology, pathology, fundus, etc), electronic health records, medical reports, radiomics, etc. Furthermore, the workshop will also provide a platform to identify the practical challenges of implementing foundation AI models in the biomedical imaging domains and the potential solutions related to the robustness, trustworthiness, and explainability of the medical foundation AI models. Thus, the workshop will offer an understanding of the impact of foundation AI models on the biomedical imaging domain. The workshop will comprise keynote presentations by experts, contributed paper presentations, poster sessions, and a panel discussion to encourage knowledge sharing, ideas exchange, and collaboration among the participants.
 
