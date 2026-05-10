@@ -17,17 +17,6 @@ layout: home
   
 </div>
 
-layout: home
----
-<div style="text-align: center; margin-top: 20px;">
-  <h3>2nd Workshop on</h3>
-  <h1>Foundation AI Models in Biomedical Imaging</h1>
-  <h3> at</h3>
-  <h3><a href="https://biomedicalimaging.org/2026/">IEEE International Conference on Biomedical Imaging (ISBI) 2026</a></h3>
-  <h3> 11 April 2026</h3>
-  <h3> London, United Kingdom</h3>
-</div>
-
 <style>
   /* Ensuring the gallery doesn't interfere with Markdown spacing */
   .gallery-wrapper {
@@ -100,7 +89,7 @@ layout: home
     <div class="gallery-item">
       <img src="assets/img/workshopimage3.jpeg" alt="Past Workshop Highlights">
     </div>
-    <!-- <div class="gallery-item">
+    <div class="gallery-item">
       <img src="assets/img/workshopimage4.jpeg" alt="Past Workshop Highlights">
     </div>
     <div class="gallery-item">
@@ -126,7 +115,7 @@ layout: home
     </div>
     <div class="gallery-item">
       <img src="assets/img/workshopimage12.jpeg" alt="Past Workshop Highlights">
-    </div> -->
+    </div>
   </div>
 
   <button class="nav-btn next-btn" onclick="moveGallery(1)">❯</button>
