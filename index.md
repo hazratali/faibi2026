@@ -92,15 +92,15 @@ layout: home
   
   <div class="gallery-viewport" id="workshop-gallery">
     <div class="gallery-item">
-      <img src="assets/img/workshopimage1.jpeg" alt="Foundation Model Research">
+      <img src="assets/img/workshopimage1.jpeg" alt="Past Workshop Highlights">
     </div>
     <div class="gallery-item">
-      <img src="assets/img/workshopimage2.jpeg" alt="Biomedical Imaging Samples">
+      <img src="assets/img/workshopimage2.jpeg" alt="Past Workshop Highlights">
     </div>
     <div class="gallery-item">
       <img src="assets/img/workshopimage3.jpeg" alt="Past Workshop Highlights">
     </div>
-    <div class="gallery-item">
+    <!-- <div class="gallery-item">
       <img src="assets/img/workshopimage4.jpeg" alt="Past Workshop Highlights">
     </div>
     <div class="gallery-item">
@@ -126,7 +126,7 @@ layout: home
     </div>
     <div class="gallery-item">
       <img src="assets/img/workshopimage12.jpeg" alt="Past Workshop Highlights">
-    </div>
+    </div> -->
   </div>
 
   <button class="nav-btn next-btn" onclick="moveGallery(1)">❯</button>
